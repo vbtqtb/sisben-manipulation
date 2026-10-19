@@ -1,0 +1,14 @@
+# Keep data and generated files out of the repository
+data/
+output/
+*.dta
+*.log
+*.smcl
+*.csv
+
+# Allow the figures folder (put the PNGs you want to show here)
+!figures/
+
+# System files
+.DS_Store
+Thumbs.db
